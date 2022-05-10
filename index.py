@@ -5,4 +5,4 @@ def add():
     return c
 
 x=add()
-print(x)
+print(f"a+b={x}")
