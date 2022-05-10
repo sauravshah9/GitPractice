@@ -4,3 +4,4 @@ def multiply():
     return a*b
 
 z=multiply()
+print(z)
